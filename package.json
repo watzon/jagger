@@ -1,0 +1,35 @@
+{
+  "name": "jagger",
+  "version": "0.1.0",
+  "description": "Marshaling utility for JSON, XML, and potentially more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watzon/jagger.git"
+  },
+  "keywords": [
+    "json",
+    "xml",
+    "marshal",
+    "unmarshal",
+    "jagger",
+    "convert"
+  ],
+  "author": "Chris Watson <chris@watzon.me>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/watzon/jagger/issues"
+  },
+  "homepage": "https://github.com/watzon/jagger#readme",
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
